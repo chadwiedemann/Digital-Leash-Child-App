@@ -41,7 +41,7 @@
     self.secondVC = (SecondViewController *)[sb instantiateViewControllerWithIdentifier:@"SVC"];
     
     locationmanager = [[CLLocationManager alloc]init];
-  
+   
     
 }
 
